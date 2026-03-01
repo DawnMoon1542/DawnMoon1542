@@ -27,6 +27,11 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 <img width="900" src="/img/techs1.png">
 <img width="900" src="/img/techs2.svg">
 
+## Statistics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Hobbies
 
 <picture>
@@ -53,4 +58,4 @@ Thanks to the following projects for building this README:
 - [MOBAIcons](https://github.com/Artist-MOBAI/MOBAIcons)
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
 - [awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme)
-
+- [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
