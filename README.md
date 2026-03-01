@@ -30,6 +30,68 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 ## Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2034%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.90%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 734.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                138 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌆 Daytime                210 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌃 Evening                266 commits         ██████████░░░░░░░░░░░░░░░   40.24 % 
+🌙 Night                  47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   134 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Tuesday                  101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Sunday                   154 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 55 mins        ██████████████░░░░░░░░░░░   55.52 % 
+Other                    46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+SQL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
+Java                     6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+
+ Last Updated on 01/03/2026 17:16:29 UTC
 <!--END_SECTION:waka-->
 
 ## Hobbies
