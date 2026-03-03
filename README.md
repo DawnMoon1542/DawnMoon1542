@@ -6,15 +6,18 @@
 
 <picture>
     <img align="right" width="200" 
-         src="https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry,%20Stay%20Foolish&author=Steve%20Jobs&border=true&theme=tokyonight&type=vertical">
+        src="/img/steve_jobs.png">
+    <img align="right" width="200" 
+        src="/img/bonjour_black.png">
 </picture>
 
 I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fullstack developer in Beijing. I love exploring new tech stack and leveraging them to build cool stuffs.
 
 - 👩‍💻 Full Stack Developer / Prompt Engineer
 - 🐱 A Siberian Forest Cat
+- 🍟 McDonald's Lover
 - 🌟 Hope to become someone I aspire to be
-- 📫 Reach me out: [dmoon1542@gmail.com](mailto:dmoon1542@gmail.com)
+- 📫 Reach me out: [dmoon1542@gmail.com](mailto:dmoon1542@gmail.com) or Bonjour↗
 
  I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! ;)
 
@@ -43,7 +46,6 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 - Build coooooool things😎
 - Watch anime and TV shows
 - Play videogames
-- 
 
 ## Thanks
 
@@ -59,3 +61,31 @@ Thanks to the following projects for building this README:
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
 - [awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme)
 - [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- [Cult of the Party Parrot](https://cultofthepartyparrot.com)
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hamburgerparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/everythingsfineparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/fasttwinsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mergetrainparrot.gif" width="30" height="30"/>
+</div>
