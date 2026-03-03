@@ -17,11 +17,11 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 - 🐱 A Siberian Forest Cat
 - 🍟 McDonald's Lover
 - 🌟 Hope to become someone I aspire to be
-- 📫 Reach me out: [dmoon1542@gmail.com](mailto:dmoon1542@gmail.com) or Bonjour↗
+- 📫 Reach me out: [dmoon1542@gmail.com](mailto:dmoon1542@gmail.com) or [Bonjour](https://bonjour.bio/s/j7znhekm)↗
 
  I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! ;)
 
-<img height="188" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DawnMoon1542&layout=compact&langs_count=8&theme=monokai&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" /> <img height="188" src="https://streak-stats.demolab.com?user=DawnMoon1542&theme=carbonfox">
+<img height="188.5" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DawnMoon1542&layout=compact&langs_count=8&theme=monokai&role=OWNER,ORGANIZATION_MEMBER"/> <img height="188.5" src="https://streak-stats.demolab.com?user=DawnMoon1542&theme=carbonfox">
 
 <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnMoon1542&theme=monokai"> 
 
@@ -29,6 +29,18 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 
 <img width="900" src="/img/techs1.png">
 <img width="900" src="/img/techs2.svg">
+
+## Hobbies
+
+<picture>
+    <img align="right" width="150" 
+         src="/img/life_balance.gif">
+</picture>
+
+- Coding with AI
+- Build coooooool things😎
+- Watch anime and TV shows
+- Play videogames
 
 ## Statistics
 
@@ -96,18 +108,6 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 03/03/2026 08:31:50 UTC
 <!--END_SECTION:waka-->
-
-## Hobbies
-
-<picture>
-    <img align="right" width="150" 
-         src="/img/life_balance.gif">
-</picture>
-
-- Coding with AI
-- Build coooooool things😎
-- Watch anime and TV shows
-- Play videogames
 
 ## Thanks
 
