@@ -25,11 +25,6 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 
 <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnMoon1542&theme=monokai"> 
 
-## My Tech Stack
-
-<img width="900" src="/img/techs1.png">
-<img width="900" src="/img/techs2.svg">
-
 ## Hobbies
 
 <picture>
@@ -41,8 +36,15 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 - Build coooooool things😎
 - Watch anime and TV shows
 - Play videogames
+- Raising IKEA Sharks🦈
+- Travel around the world
 
-## Statistics
+## My Tech Stack
+
+<img width="900" src="/img/techs1.png">
+<img width="900" src="/img/techs2.svg">
+
+# Statistics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%208%20mins-blue?style=flat)
