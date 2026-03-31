@@ -47,7 +47,7 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,11 +88,11 @@ Sunday                   154 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
-TypeScript               2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Markdown                 2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+TypeScript               2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2026 09:04:46 UTC
+ Last Updated on 31/03/2026 08:49:21 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
