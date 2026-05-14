@@ -47,13 +47,13 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.79%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 794.9 kB Used in GitHub's Storage 
+> 📦 797.8 kB Used in GitHub's Storage 
  > 
 > 🏆 258 Contributions in the Year 2026
  > 
@@ -63,38 +63,6 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                208 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-🌆 Daytime                341 commits         █████████░░░░░░░░░░░░░░░░   35.15 % 
-🌃 Evening                335 commits         █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌙 Night                  86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  137 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Wednesday                127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 197 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Friday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Sunday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Python                   9 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-TypeScript               8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Other                    7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -108,7 +76,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 10:15:07 UTC
+ Last Updated on 14/05/2026 10:07:41 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
