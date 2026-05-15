@@ -47,15 +47,13 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2019%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 797.8 kB Used in GitHub's Storage 
+> 📦 798.3 kB Used in GitHub's Storage 
  > 
-> 🏆 258 Contributions in the Year 2026
+> 🏆 323 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,7 +74,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 10:07:41 UTC
+ Last Updated on 15/05/2026 10:14:21 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
