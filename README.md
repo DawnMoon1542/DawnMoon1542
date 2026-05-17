@@ -47,7 +47,7 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,11 +88,11 @@ Sunday                   160 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.20 % 
-Markdown                 9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Other                    3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-CSS                      3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Python                   1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript               13 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.81 % 
+Markdown                 10 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Other                    3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+CSS                      3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Python                   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 09:23:46 UTC
+ Last Updated on 17/05/2026 09:28:57 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
