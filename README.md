@@ -47,7 +47,7 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,21 +66,21 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                266 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-🌆 Daytime                390 commits         ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌃 Evening                456 commits         █████████░░░░░░░░░░░░░░░░   36.25 % 
-🌙 Night                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌞 Morning                266 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌆 Daytime                390 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌃 Evening                462 commits         █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌙 Night                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Wednesday                231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Thursday                 308 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                231 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Thursday                 308 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Friday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 ```
 
 
@@ -88,11 +88,11 @@ Sunday                   161 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.60 % 
-Markdown                 13 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   30.15 % 
-TypeScript               5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Other                    2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python                   23 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.89 % 
+Markdown                 22 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   40.80 % 
+TypeScript               3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Bash                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 09:29:51 UTC
+ Last Updated on 26/07/2026 09:52:09 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
