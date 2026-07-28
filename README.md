@@ -47,8 +47,6 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2012%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -88,11 +86,37 @@ Sunday                   161 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   24 hrs 42 mins      ███████████░░░░░░░░░░░░░░   43.12 % 
-Markdown                 23 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.78 % 
-TypeScript               3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Other                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   23 hrs 43 mins      ███████████░░░░░░░░░░░░░░   42.64 % 
+Markdown                 19 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   35.39 % 
+TypeScript               5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Other                    2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 54 hrs 6 mins (97.27%)
+
+✍️ 45,225 lines written by AI, 29 lines written by hand (99.94% AI-written)
+
+🔤 3,356,581,170 Input Tokens, 9,694,465 Output Tokens
+
+💵 $6452.33 Estimated AI Cost This Week
+
+🧠 269 AI Sessions, 652 AI Prompts
+
+GPT                      45,665 lines        ██████████████████████░░░   89.83 % 
+Opus                     2,536 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Composer                 2,277 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Grok                     344 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Sonnet                   12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 4,078 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +132,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 11:11:53 UTC
+ Last Updated on 28/07/2026 10:26:29 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
