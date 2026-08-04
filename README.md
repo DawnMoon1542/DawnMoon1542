@@ -68,21 +68,21 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                291 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-🌆 Daytime                404 commits         ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-🌃 Evening                503 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
-🌙 Night                  165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+🌞 Morning                291 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+🌆 Daytime                404 commits         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+🌃 Evening                505 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌙 Night                  165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Wednesday                257 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Thursday                 355 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Friday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Saturday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Wednesday                257 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Thursday                 355 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Friday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Saturday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 ```
 
 
@@ -90,37 +90,37 @@ Sunday                   161 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   36.16 % 
-Python                   7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-TypeScript               7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Go                       3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Other                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown                 13 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.59 % 
+TypeScript               5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Python                   5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Go                       3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 51 mins (95.86%)
+⏱ AI Coding Time: 31 hrs 59 mins (96.88%)
 
-✍️ 51,906 lines written by AI, 79 lines written by hand (99.85% AI-written)
+✍️ 48,891 lines written by AI, 75 lines written by hand (99.85% AI-written)
 
-🔤 1,591,566,140 Input Tokens, 5,335,386 Output Tokens
+🔤 1,454,330,001 Input Tokens, 4,809,389 Output Tokens
 
-💵 $4445.11 Estimated AI Cost This Week
+💵 $3948.25 Estimated AI Cost This Week
 
-🧠 145 AI Sessions, 466 AI Prompts
+🧠 116 AI Sessions, 370 AI Prompts
 
-GPT                      36,908 lines        █████████████████░░░░░░░░   69.15 % 
-Opus                     13,413 lines        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Gemini                   1,613 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Composer                 1,141 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Sonnet                   301 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+GPT                      35,288 lines        ██████████████████░░░░░░░   70.09 % 
+Opus                     13,154 lines        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Gemini                   1,613 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Sonnet                   289 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 2,635 characters per prompt
+📚 Verbose Prompter — average 2,616 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 11:14:35 UTC
+ Last Updated on 04/08/2026 10:29:14 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
