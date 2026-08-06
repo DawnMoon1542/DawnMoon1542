@@ -47,9 +47,9 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-556%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-558%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,36 +90,36 @@ Sunday                   161 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 21 mins      ███████████░░░░░░░░░░░░░░   42.36 % 
-TypeScript               4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Python                   4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Go                       3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Docker                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.47 % 
+Python                   3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+TypeScript               3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Go                       2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Docker                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 35 mins (97.03%)
+⏱ AI Coding Time: 21 hrs 14 mins (96.64%)
 
-✍️ 48,894 lines written by AI, 75 lines written by hand (99.85% AI-written)
+✍️ 24,657 lines written by AI, 41 lines written by hand (99.83% AI-written)
 
-🔤 1,457,622,892 Input Tokens, 4,889,722 Output Tokens
+🔤 772,403,489 Input Tokens, 3,168,367 Output Tokens
 
-💵 $3983.52 Estimated AI Cost This Week
+💵 $2132.15 Estimated AI Cost This Week
 
-🧠 119 AI Sessions, 359 AI Prompts
+🧠 70 AI Sessions, 254 AI Prompts
 
-GPT                      35,515 lines        ██████████████████░░░░░░░   70.62 % 
-Opus                     13,154 lines        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Gemini                   1,613 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Composer                 9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GPT                      15,172 lines        ███████████████░░░░░░░░░░   58.55 % 
+Opus                     9,121 lines         █████████░░░░░░░░░░░░░░░░   35.20 % 
+Gemini                   1,613 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Composer                 9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 2,680 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 2,345 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -135,7 +135,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 10:27:50 UTC
+ Last Updated on 06/08/2026 10:30:43 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
