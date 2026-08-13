@@ -47,9 +47,9 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-580%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-585%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,37 +90,37 @@ Sunday                   161 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
-Python                   6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Vue                      2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-TypeScript               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown                 12 hrs 16 mins      ███████████░░░░░░░░░░░░░░   42.36 % 
+Python                   6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Vue                      2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+TypeScript               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 57 mins (93.03%)
+⏱ AI Coding Time: 26 hrs 59 mins (93.09%)
 
-✍️ 15,558 lines written by AI, 307 lines written by hand (98.06% AI-written)
+✍️ 14,799 lines written by AI, 307 lines written by hand (97.97% AI-written)
 
-🔤 415,853,699 Input Tokens, 2,715,018 Output Tokens
+🔤 357,548,091 Input Tokens, 2,690,506 Output Tokens
 
-💵 $1370.41 Estimated AI Cost This Week
+💵 $1235.45 Estimated AI Cost This Week
 
-🧠 156 AI Sessions, 689 AI Prompts
+🧠 161 AI Sessions, 694 AI Prompts
 
-GPT                      8,220 lines         █████████████░░░░░░░░░░░░   51.05 % 
-Opus                     5,358 lines         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Grok                     1,858 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Fable                    287 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Gemini                   196 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+GPT                      8,391 lines         ██████████████░░░░░░░░░░░   54.81 % 
+Opus                     4,392 lines         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Grok                     1,858 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Fable                    287 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Gemini                   196 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.06% of written lines came from AI
-📚 Verbose Prompter — average 4,505 characters per prompt
+🤖 AI-Driven — 97.97% of written lines came from AI
+📚 Verbose Prompter — average 4,498 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.34% of changed lines were hand-edited
+🚀 High AI Trust — 3.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 09:03:43 UTC
+ Last Updated on 13/08/2026 09:04:32 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
