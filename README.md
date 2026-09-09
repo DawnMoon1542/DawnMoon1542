@@ -47,9 +47,9 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 # Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-738%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-740%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,7 +57,7 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 
 > 📦 863.8 kB Used in GitHub's Storage 
  > 
-> 🏆 477 Contributions in the Year 2026
+> 🏆 480 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                362 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                446 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-🌃 Evening                549 commits         █████████░░░░░░░░░░░░░░░░   35.24 % 
-🌙 Night                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌞 Morning                362 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                549 commits         █████████░░░░░░░░░░░░░░░░   35.17 % 
+🌙 Night                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Wednesday                304 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Thursday                 406 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Friday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Monday                   151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Wednesday                307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Thursday                 406 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Friday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 ```
 
 
@@ -90,37 +90,37 @@ Sunday                   185 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 51 mins      ████████████░░░░░░░░░░░░░   47.99 % 
-Other                    6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Go                       3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-TypeScript               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-TeX                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 14 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
+Other                    7 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+TypeScript               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Go                       1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+TeX                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 5 mins (94.1%)
+⏱ AI Coding Time: 29 hrs 36 mins (95.45%)
 
-✍️ 29,131 lines written by AI, 94 lines written by hand (99.68% AI-written)
+✍️ 23,260 lines written by AI, 54 lines written by hand (99.77% AI-written)
 
-🔤 97,570,893 Input Tokens, 3,261,046 Output Tokens
+🔤 102,197,583 Input Tokens, 2,778,452 Output Tokens
 
-💵 $1093.06 Estimated AI Cost This Week
+💵 $1125.89 Estimated AI Cost This Week
 
-🧠 144 AI Sessions, 500 AI Prompts
+🧠 123 AI Sessions, 457 AI Prompts
 
-GPT                      17,261 lines        ██████████████░░░░░░░░░░░   54.91 % 
-Opus                     6,279 lines         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Gemini                   5,805 lines         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Grok                     1,917 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Composer                 175 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+GPT                      12,496 lines        ████████████░░░░░░░░░░░░░   49.48 % 
+Gemini                   5,805 lines         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Opus                     5,666 lines         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Grok                     1,115 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Composer                 175 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 3,730 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🤖 AI-Driven — 99.77% of written lines came from AI
+📚 Verbose Prompter — average 3,787 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 12:26:38 UTC
+ Last Updated on 09/09/2026 12:36:35 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
