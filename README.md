@@ -55,9 +55,9 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 
 **🐱 My GitHub Data** 
 
-> 📦 863.8 kB Used in GitHub's Storage 
+> 📦 863.9 kB Used in GitHub's Storage 
  > 
-> 🏆 480 Contributions in the Year 2026
+> 🏆 482 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                362 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌃 Evening                551 commits         █████████░░░░░░░░░░░░░░░░   35.25 % 
-🌙 Night                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌞 Morning                363 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+🌃 Evening                552 commits         █████████░░░░░░░░░░░░░░░░   35.27 % 
+🌙 Night                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Thursday                 406 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Friday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Thursday                 406 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Friday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
@@ -90,34 +90,34 @@ Sunday                   185 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 4 mins        █████████████░░░░░░░░░░░░   50.02 % 
-Other                    4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
-TeX                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 8 hrs 45 mins       ███████████████░░░░░░░░░░   59.03 % 
+Other                    4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+TeX                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 58 mins (98.5%)
+⏱ AI Coding Time: 14 hrs 39 mins (98.77%)
 
-✍️ 1,750 lines written by AI, 3 lines written by hand (99.83% AI-written)
+✍️ 1,974 lines written by AI, 4 lines written by hand (99.8% AI-written)
 
-🔤 60,519,337 Input Tokens, 1,249,657 Output Tokens
+🔤 91,751,036 Input Tokens, 1,962,160 Output Tokens
 
-💵 $392.99 Estimated AI Cost This Week
+💵 $555.90 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 152 AI Prompts
+🧠 47 AI Sessions, 173 AI Prompts
 
-GPT                      1,820 lines         █████████████████████████   100.00 % 
+GPT                      2,048 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📚 Verbose Prompter — average 2,862 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 2,670 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +133,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 12:59:08 UTC
+ Last Updated on 14/09/2026 14:36:36 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
