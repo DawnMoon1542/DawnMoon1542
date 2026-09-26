@@ -55,7 +55,7 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 
 **🐱 My GitHub Data** 
 
-> 📦 864.0 kB Used in GitHub's Storage 
+> 📦 863.9 kB Used in GitHub's Storage 
  > 
 > 🏆 483 Contributions in the Year 2026
  > 
@@ -90,37 +90,37 @@ Sunday                   185 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
-TypeScript               7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Python                   7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Bash                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-TeX                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TypeScript               6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Python                   5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Markdown                 5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TeX                      1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 29 mins (96.2%)
+⏱ AI Coding Time: 22 hrs 59 mins (95.87%)
 
-✍️ 28,093 lines written by AI, 102 lines written by hand (99.64% AI-written)
+✍️ 20,645 lines written by AI, 23 lines written by hand (99.89% AI-written)
 
-🔤 20,063,536 Input Tokens, 2,336,993 Output Tokens
+🔤 12,047,633 Input Tokens, 1,591,420 Output Tokens
 
-💵 $367.78 Estimated AI Cost This Week
+💵 $260.49 Estimated AI Cost This Week
 
-🧠 144 AI Sessions, 614 AI Prompts
+🧠 111 AI Sessions, 479 AI Prompts
 
-GPT                      4,813 lines         ███████████░░░░░░░░░░░░░░   44.67 % 
-Opus                     2,976 lines         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Gemini                   2,573 lines         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Fable                    355 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Grok                     57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+GPT                      4,308 lines         ███████████░░░░░░░░░░░░░░   45.45 % 
+Gemini                   2,573 lines         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Opus                     2,217 lines         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Fable                    355 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Grok                     26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📚 Verbose Prompter — average 6,103 characters per prompt
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 6,401 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.92% of changed lines were hand-edited
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 13:08:59 UTC
+ Last Updated on 26/09/2026 12:35:44 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
