@@ -68,21 +68,21 @@ I'm DawnMoon,a third-year undergraduate student, currently interning as an AI fu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-🌃 Evening                567 commits         █████████░░░░░░░░░░░░░░░░   35.89 % 
-🌙 Night                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+🌞 Morning                363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+🌆 Daytime                449 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌃 Evening                569 commits         █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌙 Night                  201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Wednesday                307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Thursday                 406 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Monday                   153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Tuesday                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Wednesday                307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Thursday                 406 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Friday                   246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Saturday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 ```
 
 
@@ -90,35 +90,33 @@ Sunday                   185 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ███████████████░░░░░░░░░░   60.00 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-JavaScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JavaScript               58 mins             ████████████████████████░   95.85 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (99.37%)
+⏱ AI Coding Time: 1 hr (100.0%)
 
-✍️ 814 lines written by AI, 7 lines written by hand (99.15% AI-written)
+✍️ 2,288 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,955,569 Input Tokens, 260,032 Output Tokens
+🔤 3,183,242 Input Tokens, 577,165 Output Tokens
 
-💵 $31.31 Estimated AI Cost This Week
+💵 $26.80 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 66 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-Opus                     689 lines           █████████████████████░░░░   83.82 % 
-GPT                      133 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Opus                     2,288 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.15% of written lines came from AI
-📚 Verbose Prompter — average 6,981 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.71% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,953 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +132,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 14:28:07 UTC
+ Last Updated on 01/10/2026 14:58:43 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
