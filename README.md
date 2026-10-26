@@ -90,37 +90,37 @@ Sunday                   204 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Python                   5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-TypeScript               3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Other                    2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Java                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Markdown                 13 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Python                   5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+TypeScript               4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Java                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other                    2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 55 mins (96.14%)
+⏱ AI Coding Time: 37 hrs 4 mins (96.42%)
 
-✍️ 7,141 lines written by AI, 1,861 lines written by hand (79.33% AI-written)
+✍️ 7,272 lines written by AI, 1,863 lines written by hand (79.61% AI-written)
 
-🔤 60,717,736 Input Tokens, 4,413,241 Output Tokens
+🔤 74,474,283 Input Tokens, 5,050,481 Output Tokens
 
-💵 $382.86 Estimated AI Cost This Week
+💵 $432.12 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 327 AI Prompts
+🧠 85 AI Sessions, 345 AI Prompts
 
-Opus                     6,639 lines         █████████████████████░░░░   85.57 % 
-GPT                      540 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Gemini                   445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Cursor                   98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Grok                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Opus                     6,673 lines         █████████████████████░░░░   85.28 % 
+GPT                      572 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Gemini                   445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Cursor                   98 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Grok                     37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.33% of written lines came from AI
-📚 Verbose Prompter — average 2,572 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 18.0% of changed lines were hand-edited
+🤖 AI-Driven — 79.61% of written lines came from AI
+📚 Verbose Prompter — average 2,596 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 17.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +136,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 12:53:10 UTC
+ Last Updated on 26/10/2026 14:42:54 UTC
 <!--END_SECTION:waka-->
 
 ## Thanks
